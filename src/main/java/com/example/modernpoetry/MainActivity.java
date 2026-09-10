@@ -1,4 +1,4 @@
-package com.example.modernpoetry;
+pacpackage com.modernpoetry.app;
 
 import android.app.Activity;
 import android.os.Bundle;
